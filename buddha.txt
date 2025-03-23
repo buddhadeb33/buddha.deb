@@ -1,0 +1,3 @@
+https://www.farhad.my/
+https://utanzu.com/interview
+https://github.com/timlrx/tailwind-nextjs-starter-bloggit init
