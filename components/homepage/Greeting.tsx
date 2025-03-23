@@ -14,6 +14,6 @@ export function Greeting() {
     >
       Howdy, fellow! <Twemoji emoji="waving-hand" size="base" />
     </div>
-  )
+  );
 }
 export default Greeting;
