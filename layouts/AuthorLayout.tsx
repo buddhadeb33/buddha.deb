@@ -56,12 +56,29 @@ export default function AuthorLayout({ children, content }: Props) {
               Hello, folks! <Twemoji className="mx-2" emoji="waving-hand" /> I'm Buddhadeb Mondal.
             </h2>
             <ul>
-              <li><strong>Senior Data Scientist</strong> with 7+ years of experience in AI/ML.</li>  
-              <li><strong>Expertise:</strong> Machine Learning, Deep Learning, Time Series Forecasting, NLP, Computer Vision, Anomaly Detection, Reinforcement Learning, and Generative AI.</li>  
-              <li><strong>Industry Experience:</strong> Telecom, Finance, Retail, and Insurance—delivering AI-driven business solutions.</li>  
-              <li><strong>Core Skills:</strong> Scalable end-to-end analytical & automation systems, data mining, feature engineering, model selection, deployment, statistical analysis, and data visualization.</li>  
-              <li><strong>Cloud & Infrastructure:</strong> Hands-on experience with Amazon SageMaker, Google Vertex AI, and NVIDIA A100/A40 servers for high-performance model training.</li>  
-              <li><strong>Leadership & Innovation:</strong> Experienced in leading AI/ML teams, driving innovation, and leveraging emerging technologies to maximize business impact.</li>  
+              <li>
+                <strong>Senior Data Scientist</strong> with 7+ years of experience in AI/ML.
+              </li>
+              <li>
+                <strong>Expertise:</strong> Machine Learning, Deep Learning, Time Series Forecasting, NLP, Computer
+                Vision, Anomaly Detection, Reinforcement Learning, and Generative AI.
+              </li>
+              <li>
+                <strong>Industry Experience:</strong> Telecom, Finance, Retail, and Insurance—delivering AI-driven
+                business solutions.
+              </li>
+              <li>
+                <strong>Core Skills:</strong> Scalable end-to-end analytical & automation systems, data mining, feature
+                engineering, model selection, deployment, statistical analysis, and data visualization.
+              </li>
+              <li>
+                <strong>Cloud & Infrastructure:</strong> Hands-on experience with Amazon SageMaker, Google Vertex AI,
+                and NVIDIA A100/A40 servers for high-performance model training.
+              </li>
+              <li>
+                <strong>Leadership & Innovation:</strong> Experienced in leading AI/ML teams, driving innovation, and
+                leveraging emerging technologies to maximize business impact.
+              </li>
             </ul>
             <h2>Why have this blog?</h2>
             <blockquote>
